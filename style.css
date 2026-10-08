@@ -167,7 +167,8 @@
 
     main img {
         display: block;
-        margin: auto
+        margin: auto;
+        max-width: 100%;
     }
     
     aside {
